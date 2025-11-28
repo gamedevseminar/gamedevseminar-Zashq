@@ -1,0 +1,6 @@
+--- UNITY SETUP PROOF ---
+Unity Version: 6000.2.13f1
+OS: Windows 11  (10.0.26200) 64bit
+Device: THINKPAD-ZASH
+GPU: AMD Radeon(TM) Graphics
+-------------------------
